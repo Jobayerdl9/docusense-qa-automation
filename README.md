@@ -27,7 +27,7 @@ This ensures that new updates in the main DocuSense project do not break existin
 ## 🔹 Author
 
 - **Jobayer Hossain**
-QA Automation Engineer & Developer
+Jr QA Engineer 
 
 ## 🔹 Links
 
